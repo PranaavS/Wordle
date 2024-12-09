@@ -1,4 +1,4 @@
-### Wordle Study
+# Wordle Study
 This repository contains the algorithms used to conduct research on optimal Wordle algorithms as well as their results. Two algorithms representing two distinct approaches to the Wordle game are present.
 
 ## Masker
